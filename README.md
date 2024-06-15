@@ -1,2 +1,2 @@
 # SyntaSnake
-A personal project exploring machine learning and encouraging me to practice the syntax of many languages.
+A personal project exploring machine learning and encouraging others to practice and learn programming language syntax.
